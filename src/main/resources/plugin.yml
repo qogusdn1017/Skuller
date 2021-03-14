@@ -1,0 +1,11 @@
+name: Skuller
+version: 0.0.1
+main: com.baehyeonwoo.skuller.plugin.SkullerPlugin
+api-version: 1.13
+author: BaeHyeonWoo
+website: "https://baehyeonwoo.com/"
+description: "Minecraft Skull Plugin."
+commands:
+  skull:
+    description: "Gives you a player skull."
+    usage: "/skull <PlayerName>"
